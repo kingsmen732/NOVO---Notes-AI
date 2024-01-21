@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 import streamlit as st
 import pickle
 import torch
@@ -60,4 +60,3 @@ if user_input:
     st.write(f'The model predicts: {generated_text}')
 else:
     st.warning('Please enter some text for summarization.')
->>>>>>> origin/main
