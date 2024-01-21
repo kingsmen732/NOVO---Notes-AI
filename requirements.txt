@@ -1,4 +1,7 @@
 torch==2.1.2
+transformers 4.36.2
+gpt4 0.0.1
 streamlit==1.18.1
 faiss-cpu==1.7.4
 streamlit-extras
+gpt3-tokenizer 0.1.4
